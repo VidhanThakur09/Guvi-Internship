@@ -102,7 +102,7 @@ predicted_marks = model.predict(new_student_data)
 
 ## 📌 Credits
 
-Project by: [Your Name]  
+Project by: Vidhan  
 Guided by: GUVI Data Science Capstone Framework
 
 ---
